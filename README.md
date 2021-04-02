@@ -10,4 +10,4 @@ I'm React developer from Ukraine.
   <li>Styled Components</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThisSilenceIsMine&theme=synthwave&show_icons=true&hide=stars"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThisSilenceIsMine&theme=tokyonight&show_icons=true&hide=stars"/>
