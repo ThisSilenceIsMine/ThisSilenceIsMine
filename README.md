@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+I'm React developer from Ukraine.
 
-<!--
-**ThisSilenceIsMine/ThisSilenceIsMine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My stack:</h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>TypeScript</li>
+  <li>NextJS</li>
+  <li>Styled Components</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ThisSilenceIsMine&theme=synthwave&show_icons=true&hide=stars"/>
