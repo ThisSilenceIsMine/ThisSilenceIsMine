@@ -11,3 +11,4 @@ I'm React developer from Ukraine.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThisSilenceIsMine&theme=tokyonight&show_icons=true&hide=stars"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisSilenceIsMine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
